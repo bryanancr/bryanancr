@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming projects
-- 📫 How to reach me @bryan_ancr in twitter and @bryanalvarezn in linkedin
+- 📫 How to reach me @bryanalvarezn linkedin
